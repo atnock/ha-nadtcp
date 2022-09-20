@@ -3,9 +3,7 @@
   "name": "NAD C338 integration",
   "documentation": "https://github.com/atnock/ha-nadtcp",
   "version": "0.3.0",
-  "requirements": [
-    "git+https://github.com/atnock/nadtcp.git@master"
-  ],
+  "requirements": ["nadtcp @ git+https://github.com/atnock/nadtcp.git@master#nadtcp==0.3.0"],
   "dependencies": [],
   "codeowners": ["@mindigmarton", "@atnock"]
 }
