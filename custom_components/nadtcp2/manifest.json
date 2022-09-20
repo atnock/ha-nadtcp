@@ -2,6 +2,7 @@
   "domain": "nadtcp2",
   "name": "NAD C338 integration",
   "documentation": "https://github.com/mindigmarton/ha-nadtcp",
+  "version": "1.0.0"
   "requirements": [
     "nadtcp==0.2.0.dev2"
   ],
